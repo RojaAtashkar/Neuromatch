@@ -1,1 +1,2 @@
-# Neuromatch
+# Neuromatch Academy Project
+
